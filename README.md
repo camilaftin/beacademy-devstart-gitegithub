@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="33%" src="https://github.com/camilaftin/be-academy/tree/main/gitegithub/readme_img">
+    <img width="33%" src="https://github.com/camilaftin/beacademy-devstart-gitegithub/blob/main/readme_img/logo.png">
 </p>
 
 # DevStart Paylivre - Aula 05 
